@@ -6,7 +6,7 @@
 //
 // Scripts
 // 
-
+console.log("Script is loaded and running.");
 window.addEventListener('DOMContentLoaded', event => {
 
     // Navbar shrink function
